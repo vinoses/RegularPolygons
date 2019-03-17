@@ -1,4 +1,3 @@
-package regular2dshapes;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
